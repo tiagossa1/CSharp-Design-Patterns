@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SRP\SRP.csproj", "{498CCF48-5DA9-4B31-ABA3-6EEA408C772D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP\OCP.csproj", "{161A3221-BC32-453B-914F-BA37945D9C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "LSP\LSP.csproj", "{89CB5F04-A5D4-4D93-A6B1-2803FB9B77B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498CCF48-5DA9-4B31-ABA3-6EEA408C772D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498CCF48-5DA9-4B31-ABA3-6EEA408C772D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498CCF48-5DA9-4B31-ABA3-6EEA408C772D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498CCF48-5DA9-4B31-ABA3-6EEA408C772D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161A3221-BC32-453B-914F-BA37945D9C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161A3221-BC32-453B-914F-BA37945D9C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161A3221-BC32-453B-914F-BA37945D9C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161A3221-BC32-453B-914F-BA37945D9C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CB5F04-A5D4-4D93-A6B1-2803FB9B77B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CB5F04-A5D4-4D93-A6B1-2803FB9B77B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CB5F04-A5D4-4D93-A6B1-2803FB9B77B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CB5F04-A5D4-4D93-A6B1-2803FB9B77B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
